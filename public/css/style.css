@@ -1,0 +1,76 @@
+.container{
+	background-color: lightgray;
+	border: 2px solid darkgray;
+	width: 500px;
+	margin-top: 50px;
+    height: 400px;
+}
+
+.label{
+	margin-left: 90px;
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+}
+
+.formdesign{
+	width: 320px;
+	height: 350px;
+	background-color:rgba(0, 188, 212, 0.23);
+	margin: 0 auto;
+	margin-top: 100px;
+	padding-top: 10px;
+	padding-left: 50px;
+	border-radius: 15px;
+	color: red;
+	font-weight: bolder;
+	box-shadow: inset -4px 4px rgba(0,0,0,0.5);
+	
+}
+
+h2{
+	padding-left: 85px;
+	color: black;
+	padding-top: 15px;
+}
+
+.aa input[type="text"]{
+	width: 270px;
+	color:#E91E63;
+	height: 45px;
+	border-radius: 5px;
+	border:1px solid black;
+	font-size: 16px;
+	padding-left:8px;
+
+}
+
+.aa input[type="password"]{
+	width: 270px;
+	height: 45px;
+	color:#E91E63;
+	border-radius: 5px;
+	font-size: 16px;
+	border:1px solid black;
+	padding-left: 8px;
+}
+
+.aa input[type="submit"]{
+	width: 100px;
+	height: 45px;
+	border-radius: 5px;
+	border:0;
+	font-size: 18px;
+	margin-left: 90px;
+	padding-left: 5px;
+	background-color: #E91E63;
+}
+
+.register{
+	color:#E91E63;
+	padding-top: 15px;
+	font-weight: bold;
+	font-size: 17px;
+	padding-left: 170px;
+
+}
